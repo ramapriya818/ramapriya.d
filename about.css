@@ -1,0 +1,18 @@
+.about-us div {
+    width: 45%;
+    float: left;
+    line-height: 30px;
+    font-size: 18px;
+  }
+  .about-us h4 {
+    font-size: 22px;
+  }
+  .about-us p {
+    line-height: 42px;
+  }
+  .about-us img {
+    width: 40%;
+    float: left;
+    margin-top: 3%;
+    margin-left: 30;
+  }

@@ -1,0 +1,32 @@
+.testimonial {
+    width: 30.5%;
+    float: left;
+    margin-right: 2.5%;
+  }
+  .testimonial-text {
+    background: #46b7c1;
+    padding: 20px;
+    line-height: 35px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+  }
+  .testimonial-detail {
+    float: left;
+    margin-top: 10px;
+  }
+  .testimonial-img {
+    float: left;
+  }
+  .testimonial-img img {
+    border-radius: 50%;
+  }
+  .testimonial-name {
+    margin-left: 10px;
+    float: left;
+  }
+  .testimonial-name h5 {
+    font-size: 18px;
+    margin-top: 8px;
+  }
